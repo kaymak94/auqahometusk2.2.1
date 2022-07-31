@@ -37,7 +37,7 @@ out/
 *.rar
 
 ### Exclusions ###
-!gradle/wrapper/gradle-wrapper.jar
+!api-ci/rest/src/gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
 /sql/
